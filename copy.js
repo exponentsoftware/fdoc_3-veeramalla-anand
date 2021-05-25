@@ -25,3 +25,4 @@ const student = {
   console.log(newStudent);
   console.table(newStudent.skills.frontEnd)
   //console.table(student);
+  
