@@ -44,5 +44,6 @@ function rateProduct(a) {
       }
     }
  }
+ 
 
 rateProduct(a);
